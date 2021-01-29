@@ -1,0 +1,20 @@
+{
+  "name": "flutterwave-assessment",
+  "version": "0.0.1",
+  "description": "Flutterwave NodeJS Assessment Project",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/flutterwave-assessment"
+  },
+  "license": "MIT",
+  "keywords": []
+}
